@@ -1,0 +1,5 @@
+C:\Users\Diak\Desktop\Dolgozatom\Dolgozat\obj\Debug\net6.0\Dolgozat.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\Dolgozatom\Dolgozat\obj\Debug\net6.0\Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\Dolgozatom\Dolgozat\obj\Debug\net6.0\Dolgozat.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\Dolgozatom\Dolgozat\obj\Debug\net6.0\Dolgozat.AssemblyInfo.cs
+C:\Users\Diak\Desktop\Dolgozatom\Dolgozat\obj\Debug\net6.0\Dolgozat.csproj.CoreCompileInputs.cache
